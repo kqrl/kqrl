@@ -10,5 +10,5 @@
 </p>
 <h2 align="center", style="color:white">Discord Profile</h2>
 <p align="center">
-        <img src="https://discord.c99.nl/widget/theme-5/505686934048473089.png"/>
+        <img src="https://discord.c99.nl/widget/theme-5/353183726710292491.png"/>
 </p>
