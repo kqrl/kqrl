@@ -6,7 +6,7 @@
 </p>
 <h2 align="center", style="color:white">My github profile stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fsnus&count_private=true&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=kqrl&count_private=true&show_icons=true&theme=radical">
 </p>
 <h2 align="center", style="color:white">Discord Profile</h2>
 <p align="center">
