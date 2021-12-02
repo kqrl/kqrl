@@ -1,6 +1,6 @@
 <h2 align="center", style="color:white">Programming languages that i mainly use</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=lua&logoColor=E9D54D">
+  <img src="https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua&logoColor=E9D54D">
   <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=HTML5&logoColor=6296CC">
   <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=6296CC">
 </p>
