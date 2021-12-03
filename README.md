@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/-lua-090909?style=for-the-badge&logo=lua&logoColor=E9D54D">
   <img src="https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=HTML5&logoColor=6296CC">
   <img src="https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=6296CC">
+  <img src="https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript&logoColor=6296CC">
 </p>
 <h2 align="center", style="color:white">My github profile stats</h2>
 <p align="center">
